@@ -4,8 +4,8 @@ body {
 }
 
 .title {
-  width: 80px;
-  top: 30px;
+  width: 70px;
+  top: 10px;
   left: 280px;
 }
 
@@ -17,8 +17,8 @@ body {
 }
 
 .part2 {
-  top: 80px;
-  left: 215px;
+  top: 60px;
+  left: 247px;
   border-radius: 5px 0 0 5px;
 }
 
@@ -37,6 +37,7 @@ body {
 .main {
   width: 90%;
   margin: 0 auto;
+  margin-top: -120px;
 }
 
 .nav {
