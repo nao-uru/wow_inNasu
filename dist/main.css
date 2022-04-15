@@ -1,5 +1,50 @@
 body {
-  background-color: yellowgreen;
+  background-color: #F4F1ED;
+  color: #413937;
+}
+
+.title {
+  width: 80px;
+  top: 30px;
+  left: 280px;
+}
+
+.part1 {
+  top: 0px;
+  left: 335px;
+  top: 0;
+  border-radius: 5px 0 0 5px;
+}
+
+.part2 {
+  top: 80px;
+  left: 215px;
+  border-radius: 5px 0 0 5px;
+}
+
+.part3 {
+  top: -80px;
+  border-radius: 0 5px 5px 0;
+  z-index: -10;
+}
+
+.part4 {
+  top: -160px;
+  border-radius: 0 5px 5px 0;
+  z-index: -10;
+}
+
+.main {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.nav {
+  background-color: hsla(12deg, 8%, 24%, 0.7);
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
 }
 
 /*# sourceMappingURL=main.css.map */
